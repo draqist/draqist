@@ -1,6 +1,7 @@
 ![Hey there, I'm Draq. I'm a software developer and a hardware engineer. Check out my work](https://github.com/draqist/draqist/raw/master/header.gif)
-
-[![Twitter Followers](https://img.shields.io/twitter/follow/Hackth8r?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Hackth8r) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/draqist?logo=GitHub&style=for-the-badge)](https://github.com/draqist) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/draqist?logo=github&style=for-the-badge)](https://github.com/draqist) &nbsp; 
+<p align='center'>
+  [![Twitter Followers](https://img.shields.io/twitter/follow/Hackth8r?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Hackth8r) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/draqist?logo=GitHub&style=for-the-badge)](https://github.com/draqist) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/draqist?logo=github&style=for-the-badge)](https://github.com/draqist) &nbsp; 
+</p>
 
 # 👋 &nbsp;Hi there
 
@@ -27,8 +28,9 @@ I'm currently working on [NewsHive](https://newshive.vercel.app). An online up-t
 &nbsp;
 
 ## 🧰 &nbsp;My toolbox
-
+<p align='center'>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;&nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;&nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp;&nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;&nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;&nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;&nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;&nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
 
 &nbsp;
 
@@ -40,6 +42,6 @@ I'm currently working on [NewsHive](https://newshive.vercel.app). An online up-t
 
 ## 📊 &nbsp;Stats
 
-![Draq's Github Stats](https://github-readme-stats.vercel.app/api?username=draqist&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
+![Draq's Github Stats](https://github-readme-stats.vercel.app/api?username=draqist&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draqist&theme=dark&layout=compact" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=draqist&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
