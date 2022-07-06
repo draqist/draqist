@@ -1,7 +1,7 @@
 ![Hey there, I'm Draq. I'm a software developer and a hardware engineer. Check out my work](https://github.com/draqist/draqist/raw/master/header.gif)
-<p align='center'>
+<div align='center'>
   [![Twitter Followers](https://img.shields.io/twitter/follow/Hackth8r?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Hackth8r) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/draqist?logo=GitHub&style=for-the-badge)](https://github.com/draqist) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/draqist?logo=github&style=for-the-badge)](https://github.com/draqist) &nbsp; 
-</p>
+</div>
 
 # 👋 &nbsp;Hi there
 
