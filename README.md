@@ -43,7 +43,6 @@ I'm currently working on [NewsHive](https://newshive.vercel.app). An online up-t
 
 ![Draq's Github Stats](https://github-readme-stats.vercel.app/api?username=draqist&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) 
 &nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=draqist&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 &nbsp;
 <div align='center'>
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draqist&theme=dark&layout=compact" />
