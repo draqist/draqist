@@ -13,7 +13,7 @@ You can also check out my website [](https://Cyris.io) for my blog and more.
 
 I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
 
-![img]https://i.ibb.co/Z1QT3sf/newshive.png[/img]
+[img]https://i.ibb.co/Z1QT3sf/newshive.png[/img]
 
 &nbsp;
 
