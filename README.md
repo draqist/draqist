@@ -10,7 +10,7 @@ You can also check out my website [](https://Cyris.io) for my blog and more.
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [NewsHive](https://newshive.vercel.app). An online up-to-date website where you get the latest information about news around the world. It's built with Typescript, Chakra-UI and Framer Motion. and I'd love for you to go check it out and give feedback 
+I'm currently working on [NewsHive](https://newshive.live). An online up-to-date website where you get the latest information about news around the world. It's built with Typescript, Chakra-UI and Framer Motion. and I'd love for you to go check it out and give feedback 
 
 ![img](https://i.ibb.co/Z1QT3sf/newshive.png)
 
