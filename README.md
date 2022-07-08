@@ -1,9 +1,9 @@
 ![Hey there, I'm Draq. I'm a software developer and a hardware engineer. Check out my work](https://github.com/draqist/CryrisXD/raw/master/header.gif)
 
-
+![img](https://i.ibb.co/N1kxMcx/header.jpg)
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Nigeria. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Hackth8r](https://twitter.com/Hackth8r). Feel free to tweet me any time. 
+I'm Abdullah,  a software developer based in Nigeria. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Hackth8r](https://twitter.com/Hackth8r). Feel free to tweet me any time. 
 You can also check out my website [](https://Cyris.io) for my blog and more.
 
 &nbsp;
