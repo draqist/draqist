@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Abdullah,  a software developer based in Nigeria. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with WebGL, Three JS and animations. You can find me on Twitter [@the_draq](https://twitter.com/the_draq). Feel free to tweet me any time. 
+I'm Abdullah,  a creative developer / frontend engineer based in Nigeria. I enjoy coding and developing fun and interactive user-interfaces on the web, creating mind-blowing animations and working on user-servicing products. I love combining my hobbies like sketching, doodling, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with WebGL, Three JS and animations. You can find me on Twitter [@the_draq](https://twitter.com/the_draq). Feel free to tweet me any time. 
 You can also check out my website [Draq](https://draq.tech)
 
 &nbsp;
