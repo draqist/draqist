@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Abdullah,  a creative developer / frontend engineer based in Nigeria. I enjoy coding and developing fun and interactive user-interfaces on the web, creating mind-blowing animations and working on user-servicing products. I love combining my hobbies like sketching, doodling, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with WebGL, Three JS and animations. You can find me on Twitter [@the_draq](https://twitter.com/the_draq). Feel free to tweet me any time. 
+I'm Abdullah also called Draq,  a creative developer / frontend engineer based in Nigeria. I enjoy coding and developing fun and interactive user-interfaces on the web, creating mind-blowing animations and working on user-servicing products. I love combining my hobbies like sketching, doodling, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with WebGL, Three JS and animations. You can find me on Twitter [@the_draq](https://twitter.com/the_draq). Feel free to tweet me any time. 
 You can also check out my website [Draq](https://draq.tech)
 
 &nbsp;
@@ -20,8 +20,8 @@ I'm currently working on [NewsHive](https://newshive.live). An online up-to-date
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing: THE WHAT,THE WHY AND THE HOW .....](https://draq.hashnode.dev/software-testing-the-beginners-guide)
-- [Context (API), life can be pretty confusing without context ..](https://draq.hashnode.dev/software-testing-the-beginners-guide)
+- [Software Testing: THE WHAT,THE WHY AND THE HOW .....]('https://draq.hashnode.dev/software-testing-the-beginners-guide')
+- [Context (API), life can be pretty confusing without context ..]('https://draq.hashnode.dev/software-testing-the-beginners-guide')
 - [Blaze The revolution of task managers!?]('https://draq.hashnode.dev/blaze-the-revolution-of-task-managers')
 
 <!-- BLOG-POST-LIST:END -->
