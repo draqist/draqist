@@ -20,9 +20,9 @@ I'm currently working on [NewsHive](https://newshive.live). An online up-to-date
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing: THE WHAT,THE WHY AND THE HOW .....]('https://draq.hashnode.dev/software-testing-the-beginners-guide')
-- [Context (API), life can be pretty confusing without context ..]('https://draq.hashnode.dev/software-testing-the-beginners-guide')
-- [Blaze The revolution of task managers!?]('https://draq.hashnode.dev/blaze-the-revolution-of-task-managers')
+- [Software Testing: THE WHAT,THE WHY AND THE HOW .....](https://draq.hashnode.dev/software-testing-the-beginners-guide)
+- [Context (API), life can be pretty confusing without context ..](https://draq.hashnode.dev/software-testing-the-beginners-guide)
+- [Blaze The revolution of task managers!?](https://draq.hashnode.dev/blaze-the-revolution-of-task-managers)
 
 <!-- BLOG-POST-LIST:END -->
 
