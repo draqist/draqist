@@ -30,7 +30,7 @@ I'm currently working on [NewsHive](https://newshive.live). An online up-to-date
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=draqist&repo=flix&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/draqist/flix) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=draqist&repo=NEWSHIVE&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/draqist/NEWSHIVE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=draqist&repo=blaze&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/draqist/flix) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=draqist&repo=NEWSHIVE&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/draqist/NEWSHIVE)
 
 &nbsp;
 
